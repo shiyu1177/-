@@ -1,0 +1,7 @@
+{
+  "name": "岐黄智枢 - 中医典籍三维知识图谱系统",
+  "description": "基于AI与三维可视化的中医知识组织与图谱系统，支持典籍导入、智能知识点提取、分类法/主题法/关系法知识关联与沉浸式3D图谱探索。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
