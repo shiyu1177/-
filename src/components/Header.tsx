@@ -59,11 +59,11 @@ export const Header: React.FC<HeaderProps> = ({
         {/* Seal Branding */}
         <div className="flex items-center gap-2.5">
           <div className="w-9 h-9 rounded-xl bg-gradient-to-br from-amber-600 via-rose-700 to-amber-900 border border-amber-400/40 flex items-center justify-center text-amber-100 font-serif font-black text-lg shadow-lg">
-            岐
+            时
           </div>
           <div>
             <h1 className="text-sm font-bold text-white tracking-wider font-serif flex items-center gap-1.5">
-              <span>岐黄智枢</span>
+              <span>时与岐黄</span>
               <span className="text-[10px] font-normal font-sans text-cyan-400 px-1.5 py-0.2 rounded bg-cyan-950/60 border border-cyan-500/30">
                 中医三维知识组织系统
               </span>
